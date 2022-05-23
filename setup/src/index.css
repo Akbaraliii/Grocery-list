@@ -247,7 +247,7 @@ Grocery List
   justify-content: space-between;
   margin-bottom: 0.5rem;
   transition: var(--transition);
-  padding: 0.25rem 1rem;
+  padding: 1rem 1rem;
   border-radius: var(--radius);
   text-transform: capitalize;
 }
